@@ -1,0 +1,21 @@
+doc|surfaceForm|type|start|length|link|
+3|native|ROLE|23|6|NIL|
+23|Doctor of education|ROLE|202|19|http://dbpedia.org/resource/Doctor_of_Philosophy|
+30|his|PER|24|3|http://dbpedia.org/resource/Thomas_W._Merrill
+30|JD|ROLE|28|2|NIL|
+30|D.C.|ORG|136|4|http://dbpedia.org/resource/Washington,_D.C.|
+50|son|ROLE|27|3|NIL|
+50|stone carver|ROLE|74|12|NIL|
+55|descendant|ROLE|40|10|NIL|
+55|M.D.|ROLE|70|4|http://dbpedia.org/resource/Doctor_of_Medicine|
+90|son|ROLE|20|3|NIL|
+90|wife|ROLE|78|4|NIL|
+90|daughter|ROLE|97|8|NIL|
+112|child|ROLE|39|5|NIL|
+121|his|PER|87|3|http://dbpedia.org/resource/Salvatore_Quasimodo|
+130|Ph.D.|ROLE|34|5|http://dbpedia.org/resource/Doctor_of_Philosophy|
+130|PhD|ROLE|118|3|http://dbpedia.org/resource/Doctor_of_Philosophy|
+157|child|ROLE|58|5|NIL|
+160|brother|ROLE|121|7|NIL|
+160|sister|ROLE|188|6|NIL|
+168|Nationalist|ORG|131|11|http://dbpedia.org/resource/National_Party_(South_Africa)|
