@@ -18,5 +18,6 @@ Annotations Guideline is available in the **guideline** folder.
 
 # Annotations
 
-Annotations are available in CSV format in the **annotations** folder.
+Annotations are available in CSV format in the **annotations** folder. 
 
+Around 25% of each corpora was annotated in order to test if they might contain errors.
